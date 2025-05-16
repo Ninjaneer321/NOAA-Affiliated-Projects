@@ -19,6 +19,10 @@ The NOAA Central Library's mission is to support and further NOAA’s mission of
 
 NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.
 
+### [Air Resources Laboratory (ARL)](https://github.com/NOAA-OAR-ARL)
+
+The NOAA Air Resources Laboratory’s (ARL) mission is to improve the ability of the Nation to protect human and ecosystem health and to support a vibrant economy through advanced atmospheric sciences and technologies. ARL’s research focus is on the surface of the Earth from a few feet below the soil up to 2-3 miles in the atmosphere, known as the boundary layer. This part of the atmosphere has a direct impact on people’s health and safety, business and the environment. ARL studies the physical and chemical processes that occur in the boundary layer, on time scales spanning a few hours to several years. ARL studies the mixing, exchange and transformation of energy, moisture, trace gases and particles; and contributes inputs to meteorological models and forecast operations vital to improving weather, climate and air quality forecasts. Primary applications include emergency response, homeland security, air quality, weather forecasts, climate outlooks, commerce and transportation. ARL’s vision is to effectively protect people, the environment and commercial activities from atmospheric risks using the best available scientific understanding of boundary layer processes.
+
 ### [Chemical Sciences Laboratory (CSL)](https://github.com/NOAA-CSL)
 
 The mission of the NOAA ESRL Chemical Sciences Laboratory (CSL) is to advance scientific understanding of three major environmental and societal issues of our time: climate, air quality, and the stratospheric ozone layer through atmospheric research on the chemical and related physical processes that affect Earth’s atmospheric composition. Our vision is a nation that has the needed scientific understanding and information about our atmosphere (environmental intelligence) to make optimal decisions in the interests of the well being of current and future generations.
@@ -131,3 +135,6 @@ The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-f
 
 This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Climate, Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Climate, Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
 
+### [NWS Northwest River Forecast Center (NWRFC)](https://github.com/NOAA-NWRFC)
+
+The NOAA/NWS [Northwest River River Forecast Center (NWRFC)](https://www.nwrfc.noaa.gov/rfc/) is one of thirteen River Forecast Centers. The NWRFC's operational mission includes (1) modeling river basins across the Pacific Northwest in the Columbia River and Coastal Basins in Washington and Oregon (2) providing water resource forecasts and guidance for region, and (3) supporting decision-making while collaborating with NWS core partners.
